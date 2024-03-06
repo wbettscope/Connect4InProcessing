@@ -19,6 +19,3 @@ Will Betts Cope Personal Project. Fully functional Connect Four game with GUI.
 3. If no moves are legal, it's a draw! Close the program and start again
 4. If one player lines up four pieces in a row (vertically, horizontally, or diagonally) then they win!
   - The winning pieces will be highlighted and the winner will be displayed in the top row
-
-## Unit Testing  
-  - Usual cases and major extremes tested visually
