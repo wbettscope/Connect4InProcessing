@@ -7,7 +7,7 @@ Will Betts Cope Personal Project. Fully functional Connect Four game with GUI.
 
 ## Usage
 1. Open file 'Connect_4.pde' in Processing
-  - This file connects to 'Board.pde,' 'Pieces.pde,' 'Play_Piece.pde' 'D_Othello.py,' and 'Win_Detection.pde' via imports
+  - This file connects to 'Board.pde,' 'Pieces.pde,' 'Play_Piece.pde,' and 'Win_Detection.pde' via imports
 2. Press 'Run'
 
 ## Interface 
