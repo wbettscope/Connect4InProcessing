@@ -3,7 +3,8 @@ Will Betts Cope Personal Project. Fully functional Connect Four game with GUI.
 
 ## Installation
 1. Follow the download and installation instructions for Processing version 3.5.4 (https://processing.org/download)
-2. Download all code files from this repository and place them in the same folder
+2. Download all code files from this repository and place them in a folder named "Connect_4"
+3. Place that folder in the same location as the Processing Folder
 
 ## Usage
 1. Open file 'Connect_4.pde' in Processing
